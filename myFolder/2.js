@@ -1,1 +1,1 @@
-const m = 'String';
+const m = ['String'];
